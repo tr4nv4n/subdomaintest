@@ -1,0 +1,1 @@
+GIF98a; <?php phpinfo(); ?>
